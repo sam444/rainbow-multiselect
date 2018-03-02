@@ -1,0 +1,21 @@
+{
+  "name": "rainbowui-multiselect",
+  "version": "2.0.0",
+  "description": "RainbowUI Multiselect",
+  "main": "./src/index.js",
+  "keywords": [],
+  "author": "RainbowUI Team",
+  "publishConfig": {
+    "registry": "http://repo.ebaotech.com/artifactory/api/npm/npm-all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://oss.ebaotech.com/rainbow-ui/multiselect.git"
+  },
+  "dependencies": {
+    "rainbowui-core": "^2.0.0",
+    "rainbow-foundation-tools": "^2.0.0",
+    "rainbow-foundation-cache": "^2.0.0",
+    "rainbow-foundation-codetable": "^2.0.0"
+  }
+}
